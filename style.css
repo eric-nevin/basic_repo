@@ -1,0 +1,15 @@
+#pagecontainer{
+	background-color: black
+}
+h1 {
+	color: white;
+}
+p {
+	color: white;
+}
+img {
+	display: inline-block;
+}
+#imgcontainer {
+	width: 700px;
+}
